@@ -4,402 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c481417-4922-440f-8de6-00ad62ebe280" name="Changes" comment="Initial commit - Vue.js frontend">
-      <change afterPath="$PROJECT_DIR$/.idea/abyss.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/babel.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/jsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/postcss.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/public/mascot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/public/mascot1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/src/App.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/src/assets/background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/src/assets/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/src/assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/src/assets/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/src/assets/mascot2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/src/components/About.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/src/components/FilterSelect.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/src/components/HomePage.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/src/components/LoginPage.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/src/components/ProfileUser.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/src/components/StudentRegistration.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/src/components/TutorRegistration.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/src/components/TutorsPage.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/src/components/UserDashboard.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/src/layouts/MainLayout.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/src/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/src/plugins/vuetify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/src/router/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/src/store/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/src/views/AboutPage.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/src/views/HomePage.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/src/views/LoginPage.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/src/views/RegisterPage.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/src/views/StudentsPage.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/src/views/TutorsPage.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/tailwind.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/front/vue.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/myapp/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/myapp/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/myapp/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/myapp/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/myapp/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/myapp/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/myapp/serializers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/myapp/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/myapp/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/myapp/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/css/autocomplete.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/css/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/css/changelists.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/css/dark_mode.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/css/dashboard.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/css/forms.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/css/login.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/css/nav_sidebar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/css/responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/css/responsive_rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/css/rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/css/vendor/select2/LICENSE-SELECT2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/css/vendor/select2/select2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/css/vendor/select2/select2.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/css/widgets.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/img/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/img/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/img/calendar-icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/img/gis/move_vertex_off.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/img/gis/move_vertex_on.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/img/icon-addlink.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/img/icon-alert.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/img/icon-calendar.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/img/icon-changelink.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/img/icon-clock.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/img/icon-deletelink.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/img/icon-no.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/img/icon-unknown-alt.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/img/icon-unknown.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/img/icon-viewlink.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/img/icon-yes.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/img/inline-delete.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/img/search.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/img/selector-icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/img/sorting-icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/img/tooltag-add.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/img/tooltag-arrowright.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/SelectBox.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/SelectFilter2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/actions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/admin/DateTimeShortcuts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/admin/RelatedObjectLookups.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/autocomplete.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/calendar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/cancel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/change_form.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/collapse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/core.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/filters.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/inlines.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/jquery.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/nav_sidebar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/popup_response.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/prepopulate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/prepopulate_init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/theme.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/urlify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/jquery/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/jquery/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/jquery/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/af.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/ar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/az.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/bg.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/bn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/bs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/ca.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/cs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/da.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/de.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/dsb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/el.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/en.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/es.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/et.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/eu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/fa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/fi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/fr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/gl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/he.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/hi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/hr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/hsb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/hu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/hy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/id.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/is.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/it.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/ja.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/ka.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/km.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/ko.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/lt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/lv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/mk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/ms.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/nb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/ne.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/nl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/pl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/ps.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/pt-BR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/pt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/ro.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/ru.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/sk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/sl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/sq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/sr-Cyrl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/sr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/sv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/th.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/tk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/tr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/uk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/vi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/zh-CN.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/i18n/zh-TW.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/select2.full.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/select2/select2.full.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/xregexp/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/xregexp/xregexp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/staticfiles/admin/js/vendor/xregexp/xregexp.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/tutor_platform/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/tutor_platform/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/tutor_platform/forms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/tutor_platform/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/tutor_platform/static/css/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/tutor_platform/static/main/mascot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/tutor_platform/templates/account/signup.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/tutor_platform/templates/account/studentsmain.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/tutor_platform/templates/account/test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/tutor_platform/templates/forgot_password.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/tutor_platform/templates/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/tutor_platform/templates/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/tutor_platform/templates/logout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/tutor_platform/templates/register.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/tutor_platform/templates/repetitor.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/tutor_platform/templates/student.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/tutor_platform/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/tutor_platform/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mom/tutor_platform_mom/tutor_platform/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygameproject/Lunara/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygameproject/Lunara/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygameproject/Lunara/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygameproject/Lunara/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygameproject/Lunara/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygameproject/Lunara/templates/authorization.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygameproject/Lunara/templates/register.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygameproject/Lunara/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygameproject/Lunara/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygameproject/Lunara/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygameproject/Lunara_dir/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygameproject/Lunara_dir/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygameproject/Lunara_dir/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygameproject/Lunara_dir/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygameproject/Lunara_dir/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygameproject/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygameproject/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygameproject/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygameproject/static/myapp/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygameproject/users/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygameproject/users/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygameproject/users/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygameproject/users/forms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygameproject/users/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygameproject/users/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygameproject/users/templates/authorization.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygameproject/users/templates/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygameproject/users/templates/register.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygameproject/users/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygameproject/users/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygameproject/users/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/front" beforeDir="false" afterPath="$PROJECT_DIR$/tutor_platform/front" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/myapp/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/myapp/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/myapp/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/myapp/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/myapp/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/myapp/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/myapp/serializers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/myapp/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/myapp/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/myapp/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/css/autocomplete.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/css/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/css/changelists.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/css/dark_mode.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/css/dashboard.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/css/forms.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/css/login.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/css/nav_sidebar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/css/responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/css/responsive_rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/css/rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/css/vendor/select2/LICENSE-SELECT2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/css/vendor/select2/select2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/css/vendor/select2/select2.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/css/widgets.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/img/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/img/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/img/calendar-icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/img/gis/move_vertex_off.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/img/gis/move_vertex_on.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/img/icon-addlink.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/img/icon-alert.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/img/icon-calendar.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/img/icon-changelink.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/img/icon-clock.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/img/icon-deletelink.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/img/icon-no.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/img/icon-unknown-alt.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/img/icon-unknown.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/img/icon-viewlink.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/img/icon-yes.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/img/inline-delete.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/img/search.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/img/selector-icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/img/sorting-icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/img/tooltag-add.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/img/tooltag-arrowright.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/SelectBox.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/SelectFilter2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/actions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/admin/DateTimeShortcuts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/admin/RelatedObjectLookups.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/autocomplete.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/calendar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/cancel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/change_form.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/collapse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/core.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/filters.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/inlines.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/jquery.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/nav_sidebar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/popup_response.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/prepopulate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/prepopulate_init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/theme.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/urlify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/jquery/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/jquery/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/jquery/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/af.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/ar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/az.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/bg.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/bn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/bs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/ca.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/cs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/da.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/de.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/dsb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/el.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/en.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/es.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/et.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/eu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/fa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/fi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/fr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/gl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/he.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/hi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/hr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/hsb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/hu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/hy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/id.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/is.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/it.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/ja.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/ka.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/km.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/ko.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/lt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/lv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/mk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/ms.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/nb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/ne.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/nl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/pl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/ps.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/pt-BR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/pt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/ro.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/ru.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/sk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/sl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/sq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/sr-Cyrl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/sr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/sv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/th.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/tk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/tr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/uk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/vi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/zh-CN.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/i18n/zh-TW.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/select2.full.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/select2/select2.full.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/xregexp/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/xregexp/xregexp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/staticfiles/admin/js/vendor/xregexp/xregexp.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/tutor_platform/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/tutor_platform/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/tutor_platform/forms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/tutor_platform/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/tutor_platform/static/css/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/tutor_platform/static/main/mascot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/tutor_platform/templates/account/signup.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/tutor_platform/templates/account/studentsmain.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/tutor_platform/templates/account/test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/tutor_platform/templates/forgot_password.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/tutor_platform/templates/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/tutor_platform/templates/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/tutor_platform/templates/logout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/tutor_platform/templates/register.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/tutor_platform/templates/repetitor.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/tutor_platform/templates/student.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/tutor_platform/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/tutor_platform/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_platform/tutor_platform/wsgi.py" beforeDir="false" />
-    </list>
+    <list default="true" id="6c481417-4922-440f-8de6-00ad62ebe280" name="Changes" comment="Initial commit - Vue.js frontend" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -426,7 +31,8 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/tutor_platform/front" value="master" />
+        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$/tutor_platform/front" value="222" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/tutor_platform/front" />
@@ -467,7 +73,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "222",
+    "git-widget-placeholder": "1",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "D:/Python/abyss",
@@ -552,7 +158,7 @@
       <workItem from="1749070772963" duration="103000" />
       <workItem from="1749070895894" duration="2315000" />
       <workItem from="1749073281876" duration="683000" />
-      <workItem from="1749201720896" duration="12030000" />
+      <workItem from="1749201720896" duration="12648000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit - Vue.js frontend">
       <option name="closed" value="true" />
@@ -562,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749726008192</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit - Vue.js frontend">
+      <option name="closed" value="true" />
+      <created>1749727393300</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749727393300</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
